@@ -1,0 +1,17 @@
+Aritra2005*
+Name: Aritra Mondal
+Address :Asansol
+Age :20
+TASK 1 :Study at the morning
+TARGET 1 :Will study for 2 hours
+TASK 2 :Will go to college
+TARGET 2 :Study till 5:30 p.m.
+TASK 3 :Will go and play with friends
+TARGET 3 :If we play cricket then take atleast 3 wickets
+2025-03-10 22:17:38.819728
+COMPLETED TASK 
+Study at the morning
+ONGOING TASK 
+Will go to college
+NOT YET STARTED
+Will go and play with friends
