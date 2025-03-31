@@ -16,7 +16,7 @@ The program source code is stored as store_management.py, and the database file 
 The program can perform the following tasks:
 1. Add product — This function adds a product, name, price, and quantity.
 
-<img src = "https://github.com/aritra-mondal-it/SE_Lab_2025_A3_4_Repo/blob/main/screenshots/1.1.png">
+<img src = "screenshots/1.1.png">
 
 2. Update Product — This function updates the name, price, and quantity after checking the product ID. If no new name, price, or quantity is desired, just press enter.
 
