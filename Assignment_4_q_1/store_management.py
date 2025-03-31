@@ -139,5 +139,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Close the database connection when done
 conn.close()
