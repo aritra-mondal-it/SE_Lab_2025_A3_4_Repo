@@ -93,7 +93,6 @@ First, you have to set a username and password if you are a new user or else jus
 
 2. Add task — This function asks for the number of tasks and then asks for each task and the target.
 
-<img src = "https://github.com/aritra-mondal-it/SE-Assign-4/blob/main/screenshots/3.2.png">
 
 3. Update Task — This function updates the status of any task that may be done or pending.
 
