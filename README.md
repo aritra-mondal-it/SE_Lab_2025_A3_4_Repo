@@ -91,14 +91,6 @@ First, you have to set a username and password if you are a new user or else jus
 
 <img src = "https://github.com/aritra-mondal-it/SE-Assign-4/blob/main/screenshots/3.1.png">
 
-2. Add task — This function asks for the number of tasks and then asks for each task and the target.
-   
-<img src = "https://github.com/aritra-mondal-it/SE-Assign-4/blob/main/screenshots/3.2.png">
-
-4. Update Task — This function updates the status of any task that may be done or pending.
-
-<img src = "https://github.com/aritra-mondal-it/SE-Assign-4/blob/main/screenshots/3.3.png">
-
-4. View Task Status — You can view the status of the task, which are pending, done or not completed. 
+2. View Task Status — You can view the status of the task, which are pending, done or not completed. 
 
 <img src = "https://github.com/aritra-mondal-it/SE-Assign-4/blob/main/screenshots/3.4.png">
