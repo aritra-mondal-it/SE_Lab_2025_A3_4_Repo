@@ -1,7 +1,7 @@
 import sqlite3
 
 # Connect to SQLite database (or create it if it doesn't exist)
-conn = sqlite3.connect('store.db')
+conn = sqlite3.connect('A3_4_q1.db')
 cursor = conn.cursor()
 
 # Create tables if they don't exist
