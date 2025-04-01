@@ -1,7 +1,7 @@
 import sqlite3
 
 # Connect to the SQLite database (or create it if it doesn't exist)
-conn = sqlite3.connect('student_marks.db')
+conn = sqlite3.connect('A3_4_q2.db')
 cursor = conn.cursor()
 
 # Create tables if they don't exist
