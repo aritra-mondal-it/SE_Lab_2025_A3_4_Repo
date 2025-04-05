@@ -84,13 +84,18 @@ tasks.
 
 b) Implement version control to track task changes and provide a task history.
 
-The program source code is stored as task_management.py, and the text file containing all the information is stored as <username>.txt.
-The program can perform the following tasks:
-First, you have to set a username and password if you are a new user or else just continue with your login credentials ...
-1. View your data — This function displays all your data and personal information.
+The program source code is stored as A3_4_q3.py.
+It is a simple task manager tool that does various tasks like:
+1. add tasks
+2. edit tasks
+3. remove tasks
+4. display tasks
+5. mark tasks as complete
+6. show help list
 
-<img src = "https://github.com/aritra-mondal-it/SE_Lab_2025_A3_4_Repo/blob/main/screenshots/3.1.png">
+### Help list:
+<img src = ".\screenshots\3.10.png">
 
 
-
-<img src = "https://github.com/aritra-mondal-it/SE_Lab_2025_A3_4_Repo/blob/main/screenshots/3.4.png">
+### Doing some tasks:
+<img src = ".\screenshots\3.11.png">
